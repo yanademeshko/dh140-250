@@ -3,4 +3,4 @@
 
 **Winter 2022 Coding & Data Science Project**
 
-This project is part of UCLA's DH Coding for Humanities course 140/250.
+This project is part of UCLA's DH Coding for Humanities course 140/250 completed by Yana Demeshko, M.A.
